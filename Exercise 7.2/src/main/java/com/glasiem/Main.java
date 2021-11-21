@@ -1,6 +1,6 @@
 package com.glasiem;
 
-//Порушено The Open Closed Principle
+//Порушено принцип відкритості/закритості
 
 public class Main {
     public static void main(String[] args) {
