@@ -2,7 +2,7 @@ package com.glasiem;
 
 import java.util.List;
 
-//Порушено принцип єдиного обов’язку
+//Порушено принцип єдиної відповідальності
 
 public class Order {
     private java.util.List<Item> itemList;
