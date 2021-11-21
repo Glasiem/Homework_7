@@ -1,6 +1,6 @@
 package com.glasiem;
 
-//Порушено принцип підстановки лісков
+//Порушено ринцип заміщення Лісков
 
 public class Program {
     public static void main(String[] args) {
